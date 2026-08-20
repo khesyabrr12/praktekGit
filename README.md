@@ -1,1 +1,2 @@
-#bintang
+
+# Khesyaa & bintang
